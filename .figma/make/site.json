@@ -1,0 +1,10 @@
+{
+  "description": "Provides users with detailed information about AI models, helping them understand model types and capabilities quickly and clearly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
